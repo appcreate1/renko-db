@@ -1,5 +1,24 @@
 {
-  "version": 1,
-  "updated": "2026-01-01T00:00:00Z",
-  "bots": []
+  "version": 2,
+  "updated": "2026-10-03T16:19:23.400Z",
+  "bots": [
+    {
+      "id": 1,
+      "name": "Testbot",
+      "version": "1.0",
+      "description": "bsksksbssn sjsjs",
+      "category": "free",
+      "price": "free",
+      "author": "Rensm",
+      "image_url": "https://raw.githubusercontent.com/appcreate1/renko-db/main/images/1791044356023_Screenshot_20261003-073725.png",
+      "file_url": "https://raw.githubusercontent.com/appcreate1/renko-db/main/releases/1791044359831_1787993869_AlphaBot.ex5",
+      "rating": 0,
+      "total_ratings": 0,
+      "total_downloads": 0,
+      "is_paid": false,
+      "profitability_score": 58,
+      "notes": "jr9rhd8d",
+      "upload_date": "2026-10-03"
+    }
+  ]
 }
